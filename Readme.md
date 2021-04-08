@@ -13,8 +13,8 @@ This project contains a starter setup for a TDD driven bowling game kata. There 
 ## Tasks
 
 1. A player rolls 20 times and knock nothing, the expected score would be zero.
-2. A player rolls 20 balls and knock 2 pins each rolling, the expected score would be 40.
+2. A player rolls 20 times and knock 2 pins each rolling, the expected score would be 40.
 3. A player rolls a Spare in the second frame. Calculate the score after the 3rd frame.
-4. A player gets a strike in frame 4. Calculate the score after the 3rd frame.
+4. A player gets a strike in frame 4. Calculate the score after the 5th frame.
 5. A player gets a perfect game.
 6. A player has a normal game. 
